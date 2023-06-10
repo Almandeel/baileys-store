@@ -1,4 +1,4 @@
-import type { BaileysEventEmitter } from '@adiwajshing/baileys';
+import type { BaileysEventEmitter } from '@whiskeysockets/baileys';
 // import { PrismaClientKnownRequestError } from '@prisma/client/runtime';
 import { useLogger } from '../shared';
 import type { BaileysEventHandler } from '../types';
