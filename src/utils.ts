@@ -1,4 +1,4 @@
-import { toNumber } from '@whiskeysockets/baileys';
+import { toNumber } from '@adiwajshing/baileys';
 import Long from 'long';
 import type { MakeTransformedPrisma, MakeSerializedPrisma } from './types';
 
